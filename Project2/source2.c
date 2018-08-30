@@ -2,5 +2,5 @@
 
 void main()
 {
-	printF("hi world\n")
+	printF("Hi World\n")
 }
